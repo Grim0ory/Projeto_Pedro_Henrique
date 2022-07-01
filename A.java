@@ -1,5 +1,4 @@
 //Pedro Henrique dos Santos Mateus
-
 public class A{
 	private int A1;
 	private float A2;
@@ -21,10 +20,13 @@ public class A{
 		A2 = valor;
 	}
 	public void MA1(){
-		cout << "MA1" << endl;
+		System.out.println("MA1");
 	}
 	public void MA2(){
-		cout << "MA2" << endl;
+		System.out.println("MA2");
 	}
-	
+	public void MA3(){
+		System.out.println("Alteração a classe A partir do clone");
+	}
 }
+//Pedro Henrique dos Santos Mateus

@@ -1,3 +1,4 @@
+//Pedro Henrique dos Santos Mateus
 public class B{
 	private int B1;
 	private float B2;
@@ -20,9 +21,9 @@ public class B{
 		B2 = valor;
 	}
 	public void MB1(){
-		cout << "MB1" << endl;
+		system.out.println("MB1")
 	}
 	public void MB2(){
-		cout << "MB2" << endl;
+		system.out.println("MB2")
 	}
 }
