@@ -20,9 +20,13 @@ public class B{
 		B2 = valor;
 	}
 	public void MB1(){
-		system.out.println("MB1")
+		system.out.println("MB1");
 	}
 	public void MB2(){
-		system.out.println("MB2")
+		system.out.println("MB2");
+	}
+	public void MB3(){
+		system.out.println("MB3");
 	}
 }
+//Pedro Henrique dos Santos Mateus
