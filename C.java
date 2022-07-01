@@ -14,3 +14,4 @@ public class C{
 	public void MC2(){
 		System.out.println("MC2");
 	}
+}
