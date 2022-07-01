@@ -7,7 +7,6 @@ public class B{
 		B1 = 0;
 		B2 = 0;
 	}
-	
 	public int getB1(){
 		return B1;
 	}
